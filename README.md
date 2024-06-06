@@ -1,2 +1,6 @@
 # Geo-Enabled-Smart-Bins
-My project is about developing a product which will be helpful for both citizens and the organizations to maintain a clean city in a smart way. I had used geospatially connected and QRCODE equipped smart bins for an easy generation of the complaint by citizens and generating shortest path to organizations.
+As technology advances, various aspects of human life improve, including waste management. One innovation is the "smart bin," which uses sensors to monitor its status, such as being full. While these bins are user-friendly, they primarily benefit organizations by optimizing waste collection. Our goal is to create a smart bin that is equally beneficial for citizens.
+
+Our smart bins enable residents to easily report issues directly to the responsible organization. Equipped with geospatial technology, these bins allow an online platform to determine the fastest routes for addressing complaints. This benefits both organizations and citizens by ensuring quicker and more efficient problem resolution. Organizations can deploy fewer personnel while addressing issues promptly, reducing costs and enhancing service.
+
+By involving residents in maintaining their local environment, our smart bins foster a sense of accountability and community engagement. This collaboration ensures cleaner, more hygienic localities and contributes to a healthier planet. Our smart bins represent a technological step forward, creating a responsive and community-driven waste management system.
